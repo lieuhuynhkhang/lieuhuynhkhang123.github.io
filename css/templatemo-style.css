@@ -154,7 +154,7 @@ a:hover {
 
 .tm-portfolio-item {
   display: flex;
-  align-items: center;
+  align-items: left;
   margin-bottom: 80px;
 }
 
